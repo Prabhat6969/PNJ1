@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "28762617754",
+    "firebase_url": "https://pnjfirebaseproject-2a229.firebaseio.com",
+    "project_id": "pnjfirebaseproject-2a229",
+    "storage_bucket": "pnjfirebaseproject-2a229.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28762617754:android:d44adab7b5fbb1e62a2c23",
+        "android_client_info": {
+          "package_name": "com.pnj.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28762617754-7q2le2o6phafueq4g1ab3jumcua8m9cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pnj.application",
+            "certificate_hash": "bd09b8afa455c9925e007c7fef64c4939629c3e5"
+          }
+        },
+        {
+          "client_id": "28762617754-r8o96k7lti5mjg8rbkj02t1l4j29ocn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf8xFrB9V7joCX0PUJToO8RqyuVss2WSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28762617754-r8o96k7lti5mjg8rbkj02t1l4j29ocn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
